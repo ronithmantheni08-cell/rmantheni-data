@@ -11,14 +11,14 @@ A data-driven analyst specializing in transforming raw data into strategic busin
 **Tools:** Python, SQL, Tableau
 - Identified a **$20,000 revenue leak** caused by category concentration risk.
 - Developed an automated pipeline to clean messy time-series data and calculate customer loyalty (88.10% Repeat Rate).
-[View Project Details →](../ecommerce-revenue-analysis)
+- [View Project Details →](https://github.com/rmantheni-data/ecommerce-revenue-analysis)
 
 ### 2. Aviation Safety: FAA Big Data Analysis
 **Tools:** Python (Jupyter), FAA Dataset
 - Analyzed 100k+ records of wildlife strikes to identify high-risk flight phases.
 - Built predictive visualizations to support regional airport safety protocols.
 - [View Project Details →](https://github.com/rmantheni-data/aviation-safety-analysis)
-
+  
 ### 3. Financial Intelligence: Market Trend Forecasting
 **Tools:** Python (YFinance), Matplotlib
 - Developed a market sentiment engine for Tesla and NVIDIA using Live API data.
