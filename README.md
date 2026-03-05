@@ -11,7 +11,7 @@ A data-driven analyst specializing in transforming raw data into strategic busin
 **Tools:** Python, SQL, Tableau
 - Identified a **$20,000 revenue leak** caused by category concentration risk.
 - Developed an automated pipeline to clean messy time-series data and calculate customer loyalty (88.10% Repeat Rate).
-- [View Project Details →](https://github.com/rmantheni-data/ecommerce-revenue-analysis)
+[View Project Details →](./../ecommerce-revenue-analysis)
 
 ### 2. Aviation Safety: FAA Big Data Analysis
 **Tools:** Python (Jupyter), FAA Dataset
