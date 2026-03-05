@@ -12,7 +12,7 @@ A data-driven analyst specializing in transforming raw data into strategic busin
 
 ### 2. Aviation Safety: FAA Big Data Analysis
 - [View Project Details →](https://github.com/rmantheni-data/aviation-safety-analysis)
-- 
+  
 ### 3. Financial Intelligence: Market Trend Forecasting
 **Tools:** Python (YFinance), Matplotlib
 - Developed a market sentiment engine for Tesla and NVIDIA using Live API data.
