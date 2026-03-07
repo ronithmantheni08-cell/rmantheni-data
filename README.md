@@ -18,8 +18,6 @@ A data-driven analyst specializing in transforming raw data into strategic busin
 - [View Project Details →](https://github.com/ronithmantheni08-cell/aviation-safety-analysis)
 - 
 ### 3. Financial Intelligence: Market Trend Forecasting
-- Developed a market sentiment engine for NVIDIA using Live API data.
-- Analyzed the correlation between daily price action and 20-day moving averages.
 - [View Project Details →](https://github.com/ronithmantheni08-cell/stock-market-analysis)
   
 ---
