@@ -26,11 +26,11 @@ Data-driven Graduate Student with expertise in transforming complex datasets int
 - **Solution:** Leveraged **yfinance API** to build a 20-day moving average trend engine.
 - **Tools:** Python (Matplotlib), API Integration
 
-📦 Vendor Profitability & Performance Suite
+📦 Vendor Profitability: Supply Chain Intelligence Suite
 
-Problem: Managed 33M units across silos to identify low-margin "Volume Traps."
-Solution: Built a Python ETL & SQL pipeline to optimize a $138M profit portfolio.
-Tools: Python (Pandas/SciPy), SQL, Tableau 
+Problem: Managed **33 Million units** across data silos to identify low-margin "Volume Traps."
+Solution: Built a **Python ETL & SQL pipeline** to engineer a unified database and optimize a **$138M profit** portfolio.
+Tools: Python (Pandas/SciPy), SQL (SQLite), Tableau
 Link: [View Project Repository](https://github.com/ronithmantheni08-cell/Vendor-Profit-Analytics)
 ---
 
