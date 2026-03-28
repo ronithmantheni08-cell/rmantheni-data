@@ -31,14 +31,21 @@ Data-driven Graduate Student with expertise in transforming complex datasets int
 Problem: Managed **33 Million units** across data silos to identify low-margin "Volume Traps."
 Solution: Built a **Python ETL & SQL pipeline** to engineer a unified database and optimize a **$138M profit** portfolio.
 Tools: Python (Pandas/SciPy), SQL (SQLite), Tableau
-Link: [View Project Repository](https://github.com/ronithmantheni08-cell/Vendor-Profit-Analytics)
+Link: [View Project Repository](https://github.com/ronithmantheni08-cell/Vendor-Profit-Analytics) 
+
+💳 **JPMC Digital Payments: Predictive Friction Optimizer**
+* **Problem:** Identifying why 45% of customers were dropping out of the digital payment flow.
+* **Solution:** Built a Python & Machine Learning pipeline to detect a critical Android Biometric bug and deployed a Streamlit dashboard for real-time risk monitoring.
+* **Tools:** Python (Scikit-Learn), Streamlit, Matplotlib
+* **Link:** [View Project Repository](https://github.com/ronithmantheni08-cell/JPMC-Payments-Analytics-Solution)
 ---
 
 ## 💻 Technical Toolkit
 * **Programming:** Python (Pandas, Scikit-learn, NumPy), R (Tidyverse)
-* **Visualization:** Tableau, Power BI, Matplotlib
+* **Visualization:** Tableau, Power BI, Matplotlib, 
 * **Databases:** SQL (PostgreSQL, SQLite), BigQuery
 * **Business Strategy:** Financial Modeling, Time-Series Forecasting, Social Media Analytics
+* **Frameworks:** Streamlit (UI/UX Deployment)
   
 ### 🎓 Education
 - **Master of Business Administration (MBA)** - Business Analytics, Golden Gate University (Expected May 2026)
